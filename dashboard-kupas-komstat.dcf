@@ -1,0 +1,13 @@
+name: dashboard-kupas-komstat
+title: dashboard-kupas-komstat
+username: qurany-dashboard-kupas
+account: qurany-dashboard-kupas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15111182
+bundleId: 10659189
+url: https://qurany-dashboard-kupas.shinyapps.io/dashboard-kupas-komstat/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: sovi_data_simplified.geojson
